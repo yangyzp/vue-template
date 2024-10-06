@@ -6,12 +6,10 @@ defineProps<{
 
 <template>
   <div class="greetings">
-    <h1 class="green">{{ msg }}</h1>
-    <h3>
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>. What's next?
-    </h3>
+    <h1 class="green">官网发布页</h1>
+    <h2>(注意官网变动)</h2>
+    <h3>● 如以下网址有某个无法打开，请留言给客服，谢谢</h3>
+    <h3>● 打开官网前，请先断开你的 FQ（VPN）软件</h3>
   </div>
 </template>
 
